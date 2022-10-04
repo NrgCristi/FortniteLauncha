@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\FortniteLauncha\obj\Debug\FortniteLauncha.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\FortniteLauncha\obj\Debug\FortniteLauncha.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\FortniteLauncha\obj\Debug\FortniteLauncha.Form1.resources
+C:\Users\User\source\repos\FortniteLauncha\obj\Debug\FortniteLauncha.Properties.Resources.resources
+C:\Users\User\source\repos\FortniteLauncha\obj\Debug\FortniteLauncha.csproj.GenerateResource.cache
+C:\Users\User\source\repos\FortniteLauncha\obj\Debug\FortniteLauncha.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FortniteLauncha\bin\Debug\FortniteLauncha.exe.config
+C:\Users\User\source\repos\FortniteLauncha\bin\Debug\FortniteLauncha.exe
+C:\Users\User\source\repos\FortniteLauncha\bin\Debug\FortniteLauncha.pdb
+C:\Users\User\source\repos\FortniteLauncha\obj\Debug\FortniteLauncha.exe
+C:\Users\User\source\repos\FortniteLauncha\obj\Debug\FortniteLauncha.pdb
